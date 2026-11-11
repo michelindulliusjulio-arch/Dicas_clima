@@ -1,0 +1,26 @@
+while True:
+    dica = input("Digite dica 1, dica 2, dica 3, dica 4 ou dica 5: ")
+
+    if dica == "dica 1":
+        print("Economize energia elétrica e apague as luzes quando não precisar.")
+
+    elif dica == "dica 2":
+        print("Use bicicleta, caminhe ou utilize transporte público.")
+
+    elif dica == "dica 3":
+        print("Plante árvores e ajude a preservar as florestas.")
+
+    elif dica == "dica 4":
+        print("Separe o lixo para reciclagem e evite o desperdício.")
+
+    elif dica == "dica 5":
+        print("Economize água e evite o desperdício.")
+
+    else:
+        print("Dica não encontrada! Digite de dica 1 até dica 5.")
+
+    continuar = input("Deseja ver outra dica? (sim/não): ")
+
+    if continuar == "não":
+        print("Obrigado por ajudar o planeta! 🌎")
+        break
