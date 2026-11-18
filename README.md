@@ -17,7 +17,6 @@ Incentivar hábitos sustentáveis e ensinar como pequenas atitudes podem ajudar 
 - 🌱 Dicas de sustentabilidade.
 - 💧 Informações para economizar água.
 - ♻️ Orientações sobre reciclagem.
-- 🧠 Quiz ambiental com pontuação.
 - 🌍 Curiosidades sobre o meio ambiente.
 
 ## 💻 Tecnologias
@@ -29,7 +28,7 @@ Incentivar hábitos sustentáveis e ensinar como pequenas atitudes podem ajudar 
 
 ## ▶️ Como executar
 
-1. Instale o Python 3.
+1. Instale o Python 
 2. Baixe o arquivo `ecobot.py`.
 3. Abra o terminal na pasta do projeto.
 4. Execute:
